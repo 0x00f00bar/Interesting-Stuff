@@ -21,6 +21,7 @@ Collection of interesting stuffs found surfing the net.
  - [Paul Graham](http://www.paulgraham.com/articles.html)
  - [Find Programming work by increasing luck surface area](https://blog.kowalczyk.info/article/4682085af50b41f88460593d21db6182/find-programming-work-by-increasing-luck-surface-area.html)
  - [Easy vs Probable or how to make money with software](https://blog.kowalczyk.info/article/ahcj/easy-vs.probable-or-how-to-make-money-with-software.html)
+ - [zserge's blog](https://zserge.com/posts/)
 
 ## Health
 
@@ -48,6 +49,7 @@ Collection of interesting stuffs found surfing the net.
  - [HandMade Network](https://handmade.network/)
  - [Compiler Explorer](https://godbolt.org/)
  - [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/)
+ - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 
 ## Books
 
