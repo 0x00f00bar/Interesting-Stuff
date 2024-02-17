@@ -47,6 +47,7 @@ Collection of interesting stuffs found surfing the net.
  - [CSS Zen Garden](http://www.csszengarden.com/)
  - [HandMade Network](https://handmade.network/)
  - [Compiler Explorer](https://godbolt.org/)
+ - [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/)
 
 ## Books
 
