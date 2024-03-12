@@ -6,6 +6,7 @@ Collection of interesting stuffs found surfing the net.
  - [Modding an iPod Classic](https://www.ajfriesen.com/modding-an-ipod-classic/)
  - [PS3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/)
  - [ELM-Chan](http://elm-chan.org/)
+ - [Embedded FM](https://embedded.fm/episodes)
 
 ## Blogs/Articles
 
@@ -50,6 +51,8 @@ Collection of interesting stuffs found surfing the net.
  - [Compiler Explorer](https://godbolt.org/)
  - [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/)
  - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
+ - [Pico8](https://www.lexaloffle.com/pico-8.php)
+ - [Voxatron](https://www.lexaloffle.com/voxatron.php)
 
 ## Books
 
