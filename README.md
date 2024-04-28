@@ -7,6 +7,7 @@ Collection of interesting stuffs found surfing the net.
  - [PS3 Architecture](https://www.copetti.org/writings/consoles/playstation-3/)
  - [ELM-Chan](http://elm-chan.org/)
  - [Embedded FM](https://embedded.fm/episodes)
+ - [Spotify iPod](https://www.youtube.com/watch?v=ZxdhG1OhVng)
 
 ## Blogs/Articles
 
@@ -58,3 +59,7 @@ Collection of interesting stuffs found surfing the net.
 
  - [A Book Apart](https://abookapart.com/collections/books)
  - [Byrne’s Euclid](https://www.c82.net/euclid/)
+
+## ??
+
+ - [Untools](https://untools.co/)
